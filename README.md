@@ -1,6 +1,8 @@
 # Clevered-AI-ML-Projects
 My Projects at Clevered developed in Python
 
+AIWZL2: https://colab.research.google.com/drive/1krItPY-wAx5ZzcHso3E_7d1uJ97AHZjt?usp=sharing
+
 AIWZL3: https://colab.research.google.com/drive/1e4dimw_jL0dlzePnqKrv90tLLNw9GXnC?usp=sharing
 
 AIDLL1: https://colab.research.google.com/drive/16-QfWT1AcdOCygvzHUKp6yJ3LaTKDM2g?usp=sharing
