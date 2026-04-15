@@ -3,7 +3,7 @@ My Projects at Clevered developed in Python
 
 AIIMDE: https://colab.research.google.com/drive/18pgMocm1KyA4F3AtM4SgUqjyKjpXvR9P?usp=sharing
 
-AIWZL1: 
+AIWZL1: https://colab.research.google.com/drive/1HSzGWgqdp4k-0Kf_2dYJG1e_p3eZpiBg?usp=sharing
 
 AIWZL2: https://colab.research.google.com/drive/1krItPY-wAx5ZzcHso3E_7d1uJ97AHZjt?usp=sharing
 
